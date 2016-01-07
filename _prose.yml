@@ -1,0 +1,7 @@
+prose:
+  siteurl: 'http://csis-ilab.github.io'
+  ignore:
+    - index.html
+    - _config.yml
+    - /_layouts
+    - /_includes
