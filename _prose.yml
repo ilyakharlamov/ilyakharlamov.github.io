@@ -5,3 +5,5 @@ prose:
     - _config.yml
     - /_layouts
     - /_includes
+    - /css
+    - /_sass
