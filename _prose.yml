@@ -6,3 +6,5 @@ prose:
     - /_includes
     - /css
     - /_sass
+    - /_book.json
+    -/_book
