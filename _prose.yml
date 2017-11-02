@@ -8,3 +8,4 @@ prose:
     - /_sass
     - /_book.json
     -/_book
+    _/docs
